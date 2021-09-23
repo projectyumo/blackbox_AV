@@ -1,5 +1,7 @@
 # blackbox_AV
 
+## 09-23 Retrieving Lane Markings
+![Simulation](/lane_markings.png)
 ## 09-23 Simulation on Custom Map
 ![Simulation](/carla_loop_mov_1.gif)
 ## 09-23 BEV on Custom Map
