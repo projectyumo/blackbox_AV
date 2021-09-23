@@ -1,9 +1,14 @@
 # blackbox_AV
 
-### [Constructing the state-space, very basic sample implementation](https://github.com/projectyumo/blackbox_AV/blob/main/stateSpaceConstructor.ipynb)
+## 09-23 Simulation on Custom Map
+![Simulation](/carla_loop_mov.gif)
+## 09-23 BEV on Custom Map
+![Simulation](/bev_sim.gif)
 
-## Custom Map
+### 09-16 [Constructing the state-space, very basic sample implementation](https://github.com/projectyumo/blackbox_AV/blob/main/stateSpaceConstructor.ipynb)
+
+## 09-16 Custom Map
 ![My Map](/Carla_Custom_Map.png)
 
-## Collecting Vehicle Data
+## 09-16 Collecting Vehicle Data
 ![Vehicle Data](/measurements.png)
