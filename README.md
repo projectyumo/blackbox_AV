@@ -1,7 +1,7 @@
 # blackbox_AV
 
 ## 09-23 Simulation on Custom Map
-![Simulation](/carla_loop_mov.gif)
+![Simulation](/carla_loop_mov_1.gif)
 ## 09-23 BEV on Custom Map
 ![Simulation](/bev_sim.gif)
 
