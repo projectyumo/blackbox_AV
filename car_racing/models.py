@@ -8,7 +8,7 @@ import math
 import numpy as np
 
 img_stack = 1
-state_shape = 64
+state_shape = 128
 gamma = 0.99
 device = torch.device("cuda")
 
@@ -22,7 +22,6 @@ class CNN(nn.Module):
         exp = int( math.log(img_size)/math.log(2) )
 
         self.cnn = [nn.Conv2d(nc, nfm, 4, 2, 1),
-                    nn.BatchNorm2d(nfm),
                     nn.ReLU()]
 
         for i in range(exp-3):
@@ -42,7 +41,7 @@ class Net(nn.Module):
     Actor-Critic Network for PPO
     """
 
-    def __init__(self, nc=1, nfm=8, cnn_out=256, out_dim=100, img_size=64):
+    def __init__(self, nc=1, nfm=8, cnn_out=256, out_dim=100, img_size=128):
         super(Net, self).__init__()
         self.cnn_out = cnn_out
         self.cnn = CNN(nc, nfm, cnn_out, img_size)

@@ -7,14 +7,10 @@ import gym
 from utils import DrawLine
 from models import Agent
 
-state_shape = 64
+state_shape = 128
 img_stack = 1
 action_repeat = 8
 log_interval =  10
-
-transition = np.dtype([('s', np.float64, (img_stack, state_shape, state_shape)), ('a', np.float64, (3,)), ('a_logp', np.float64),
-                       ('r', np.float64), ('s_', np.float64, (img_stack, state_shape, state_shape))])
-
 
 class Env():
     """

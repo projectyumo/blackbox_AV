@@ -26,7 +26,7 @@ def preprocess_state(state):
 
 
 img_stack = 1
-state_shape = 64
+state_shape = 128
 
 if __name__ == "__main__":
     agent = Agent()
