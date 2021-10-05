@@ -1,5 +1,5 @@
 # blackbox_AV
-## 09-23 Retrieving Lane Markings
+## 10-05 Testing PPO on Car Racing before CARLA
 ![Car Racing](/ppo_carracing_1.gif)
 ## 09-23 Retrieving Lane Markings
 ![Simulation](/lane_markings.png)
