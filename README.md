@@ -1,4 +1,6 @@
 # blackbox_AV
+## 10-20 Testing PPO on CARLA (Reward function seems to be incorrect or incomplete)
+![CarlaRL](/output.gif)
 ## 10-05 Testing PPO on Car Racing before CARLA
 ![Car Racing](/ppo_carracing_1.gif)
 ## 09-23 Retrieving Lane Markings
