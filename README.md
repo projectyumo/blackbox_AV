@@ -1,4 +1,6 @@
 # blackbox_AV
+## 11-01 Testing PPO on CARLA (Successful Lap by RL Agent)
+![CarlaRL2](/FINALLY5.gif)
 ## 10-20 Testing PPO on CARLA (Reward function seems to be incorrect or incomplete)
 ![CarlaRL](/output.gif)
 ## 10-05 Testing PPO on Car Racing before CARLA
