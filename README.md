@@ -1,4 +1,8 @@
 # blackbox_AV
+## 10-05 Testing PPO on Car Racing before CARLA
+![Carla4](/complex_road.gif)
+## 11-07 Map Difficulty "Lvl2"
+![CarlaRL3](/complex_map.png)
 ## 11-01 Testing PPO on CARLA (Successful Lap by RL Agent)
 ![CarlaRL2](/FINALLY5.gif)
 ## 10-20 Testing PPO on CARLA (Reward function seems to be incorrect or incomplete)
