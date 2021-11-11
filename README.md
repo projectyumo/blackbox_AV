@@ -1,5 +1,5 @@
 # blackbox_AV
-## 11-11 Testing PPO on Car Racing before CARLA
+## 11-11 Training Episode showing 'successfull' navigating part curvy region
 ![Carla4](/complex_road.gif)
 ## 11-09 Map Difficulty "Lvl2"
 ![CarlaRL3](/complex_map.png)
