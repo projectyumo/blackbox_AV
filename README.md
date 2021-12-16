@@ -1,4 +1,6 @@
 # blackbox_AV
+## 12-16 Successful arounds curves
+![Carla8](/aroundCurves.gif)
 ## 12-02 Examples using 1x10 State Space (velocity_x, velocity_y, rotated_dist_x_i, rotated_dist_y_i) for i: 1->4
 ![Carla6](/ex1_stateSpace.gif)
 ![Carla7](/ex2_stateSpace.gif)
